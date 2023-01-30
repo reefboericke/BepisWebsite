@@ -30,8 +30,8 @@ window.onload = function() {
             mode: Phaser.Scale.FIT,
             autoCenter: Phaser.Scale.CENTER_BOTH,
             parent: 'thegame',
-            width: 320,
-            height: 480
+            width: 160,
+            height: 240
         },
         pixelArt: true,
         physics: {
